@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "dca55fa0fba2e3dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "149dbd4c4d345a5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3760da8da427e8ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9e2c1f8aad4973c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae32cec8814d244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804128b956b25341",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e62ee2ee64e9023",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fe5b41becf7fdb2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82a9600df8d8fd5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba7941903bfa73a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02b9962519b78ecc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aceda3ba43d9b909",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94ac3c1510a38f7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69d206ddab8f610b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3760da8da427e8ff",
+  "lastOpenFiles": [
+    "2024-08-01-如何本地部署Minikube？.md",
+    "2024-08-01-Nginx简明教程.md",
+    "2024-08-01-WordPress.md",
+    "2024-08-01-如何构建CICD平台？.md",
+    "2024-08-01-MySQL简明教程.md",
+    "2024-08-01-Ansible简明教程.md",
+    "2024-07-23-如何学习计算机.md"
+  ]
+}
