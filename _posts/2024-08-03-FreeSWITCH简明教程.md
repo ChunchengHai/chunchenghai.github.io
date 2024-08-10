@@ -2,15 +2,15 @@
 
 FreeSWITCH是何？
 
-[什么是FreeSWITCH](https://freeswitch.org.cn/blog/2009/11/what-is-FreeSWITCH/)
+什么是FreeSWITCH `https://freeswitch.org.cn/blog/2009/11/what-is-FreeSWITCH/`
 ### 如何学习FreeSWITCH？
 
 FreeSWITCH部署至Debian11环境
 FusionPBX 是 FreeSWITCH 的附加组件，可提供 Web 管理界面。
 
-[FreeSWITCH中文社区](https://freeswitch.org.cn/)
+FreeSWITCH中文社区 `https://freeswitch.org.cn/`
 
-[《FreeSWITCH权威指南》]()
+《FreeSWITCH权威指南》
 
 FreeSWITCH模块
 
@@ -31,7 +31,6 @@ SIP协议
 被叫发送180
 200
 开始RTP信息传输
-
 
 
 
