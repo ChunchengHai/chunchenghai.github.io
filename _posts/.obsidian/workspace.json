@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "149dbd4c4d345a5a",
+        "id": "4c0219ccfdaa3902",
         "type": "tabs",
         "children": [
           {
-            "id": "3760da8da427e8ff",
+            "id": "8b56e279efcbdcc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "背调.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -72,7 +76,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cba7941903bfa73a",
+        "id": "11d9215b1b8a563b",
         "type": "tabs",
         "children": [
           {
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "背调.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,13 +95,20 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "cba7941903bfa73a",
+        "type": "tabs",
+        "children": [
           {
             "id": "aceda3ba43d9b909",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "背调.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +130,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "背调.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,14 +151,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3760da8da427e8ff",
+  "active": "8b56e279efcbdcc0",
   "lastOpenFiles": [
-    "2024-08-01-如何本地部署Minikube？.md",
-    "2024-08-01-Nginx简明教程.md",
-    "2024-08-01-WordPress.md",
-    "2024-08-01-如何构建CICD平台？.md",
-    "2024-08-01-MySQL简明教程.md",
-    "2024-08-01-Ansible简明教程.md",
-    "2024-07-23-如何学习计算机.md"
+    "test.cpp",
+    "test.py",
+    "Python基础数据结构.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "如何学习西语？.md",
+    "Shell.md",
+    "Lua简明教程.md",
+    "FreeSWITCH Lua教程.md",
+    "2024-08-03-FreeSWITCH简明教程.md",
+    "Go.md",
+    "CS转外贸岗.md",
+    "未命名 4.md",
+    "未命名 3.md",
+    "未命名 5.md",
+    "背调.md",
+    "如何写外贸开发信？.md",
+    "2024-08-04-如何构造ip漂移容器.md",
+    "Shell简明教程.md",
+    "JavaScript.md",
+    "2024-07-23-如何学习计算机.md",
+    "HTML.md",
+    "如何基于Bash脚本部署MySQL服务？.md",
+    "MySQL binglog日志主备.md",
+    "2024-08-03-软电话.md",
+    "Linux运维面试题.md",
+    "Linux是如何启动的？.md"
   ]
 }
